@@ -36,6 +36,6 @@ out/
 ### VS Code ###
 .vscode/
 
-resources/application.properties
-resources/private.key
-resources/public.crt
+src/main/resources/application.properties
+src/main/resources/private.key
+src/main/resources/public.crt
