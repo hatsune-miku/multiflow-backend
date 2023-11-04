@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+resources/application.properties
+resources/private.key
+resources/public.crt
